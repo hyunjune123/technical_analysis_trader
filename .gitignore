@@ -1,0 +1,12 @@
+# pyc files
+*.pyc
+.idea
+__pycache__
+
+# log and data files
+**/data
+**/log
+
+# created files
+**/images/*
+
